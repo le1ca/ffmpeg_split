@@ -4,7 +4,8 @@ import sys
 
 CODEC_MAP = {
     'matroska,webm': 'mkv',
-    'aac': 'm4a'
+    'aac': 'm4a',
+    'opus': 'opus'
 }
 
 
